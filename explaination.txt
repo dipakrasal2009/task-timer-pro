@@ -1,0 +1,66 @@
+# Task Timer Pro
+
+A professional desktop task management and time tracking application built with Electron.js.
+
+![Task Timer Pro Screenshot](screenshots/main.png)
+
+## 📋 Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technical Details](#technical-details)
+- [Development](#development)
+- [Troubleshooting](#troubleshooting)
+- [Contributing](#contributing)
+
+## ✨ Features
+
+### 1. 📝 Task Management
+- Create, edit, and delete tasks
+- Set task priorities (High, Medium, Low)
+- Add task duration and categories
+- Task notes and descriptions
+- Task scheduling and deadlines
+
+### 2. ⏲️ Pomodoro Timer
+- 25/5 minute work/break cycles
+- Customizable durations
+- Break reminders
+- Session tracking
+- Auto-start next session
+
+### 3. 🎯 Progress Tracking
+- Real-time progress bars
+- Task completion statistics
+- Daily/Weekly reports
+- Time spent analysis
+- Productivity trends
+
+### 4. 🔔 Notifications
+- Task completion alerts
+- Break reminders
+- Pomodoro cycle notifications
+- Custom notification sounds
+- Priority-based alerts
+
+### 5. 💻 System Integration
+- System tray functionality
+- Start with system
+- Minimize to tray
+- Quick access menu
+- Desktop shortcuts
+
+### 6. 🌙 Theme Support
+- Light/Dark mode
+- System theme sync
+- Custom color schemes
+- High contrast mode
+- Font customization
+
+## 🚀 Installation
+
+### Prerequisites
+- Node.js (v14 or later)
+- npm (v6 or later)
+
+### Quick Install (Ubuntu/Debian)
