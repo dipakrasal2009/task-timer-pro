@@ -2,7 +2,7 @@
 
 A professional task management and time tracking desktop application built with Electron. Keep track of your tasks, manage time effectively, and boost your productivity.
 
-![Task Timer Pro Screenshot](screenshots/main.png)
+![Task Timer Pro Screenshot](screenshot/main.png)
 
 ## Features
 
@@ -22,7 +22,7 @@ A professional task management and time tracking desktop application built with 
 ### Method 1: Quick Installation (Recommended for Ubuntu/Debian)
 ```bash
 # Download the installation script
-wget https://raw.githubusercontent.com/yourusername/task-timer-pro/main/install.sh
+wget https://raw.githubusercontent.com/dipakrasal2009/task-timer-pro/main/install.sh
 
 # Make it executable
 chmod +x install.sh
@@ -48,7 +48,7 @@ The script will automatically:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/task-timer-pro.git
+git clone https://github.com/dipakrasal2009/task-timer-pro.git
 cd task-timer-pro
 ```
 
@@ -72,7 +72,7 @@ sudo apt-get install -f # Fix any dependencies
 
 1. Download the AppImage from releases:
 ```bash
-wget https://github.com/yourusername/task-timer-pro/releases/download/v1.0.0/Task.Timer.Pro-1.0.0.AppImage
+wget https://github.com/dipakrasal2009/task-timer-pro/releases/download/v1.0.0/Task.Timer.Pro-1.0.0.AppImage
 ```
 
 2. Make it executable:
@@ -89,7 +89,7 @@ chmod +x Task.Timer.Pro-1.0.0.AppImage
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/task-timer-pro.git
+git clone https://github.com/dipakrasal2009/task-timer-pro.git
 cd task-timer-pro
 ```
 
@@ -202,8 +202,8 @@ rm ~/.local/share/applications/task-timer-pro.desktop
 
 ## Support
 
-- Issue Tracker: [GitHub Issues](https://github.com/yourusername/task-timer-pro/issues)
-- Email: your.email@example.com
+- Issue Tracker: [GitHub Issues](https://github.com/dipakrasal2009/task-timer-pro/issues)
+- Email: dipakrasal2009@gmail.com
 
 ## License
 
@@ -216,5 +216,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - All contributors
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️  by Dipak Rasal
 
