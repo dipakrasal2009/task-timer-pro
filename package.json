@@ -14,7 +14,7 @@
     "dist": "electron-builder --linux"
   },
   "build": {
-    "appId": "com.tasktimer.app",
+    "appId": "com.task-timer.app",
     "productName": "Task Timer Pro",
     "directories": {
       "output": "dist"
