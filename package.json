@@ -3,11 +3,6 @@
   "version": "1.0.0",
   "description": "Professional Task Timer Application",
   "main": "main.js",
-  "homepage": "https://github.com/dipakrasal2009/task-timer-pro",
-  "author": {
-    "name": "Dipak Rasal",
-    "email": "dipakrasal2009@gmail.com"
-  },
   "scripts": {
     "start": "electron .",
     "build": "electron-builder --linux",
@@ -22,10 +17,10 @@
     "linux": {
       "target": ["AppImage", "deb"],
       "category": "Utility",
-      "maintainer": "Dipak Rasal <dipakrasal2009@gmail.com>",
-      "vendor": "DR organization pvt. ltd."
+      "maintainer": "Dipak Rasal <dipakrasal2009@gmail.com>"
     }
   },
+  "author": "Dipak Rasal",
   "license": "MIT",
   "devDependencies": {
     "electron": "22.0.0",
